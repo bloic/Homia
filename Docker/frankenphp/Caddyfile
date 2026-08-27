@@ -1,0 +1,11 @@
+{
+    frankenphp
+    order php_server before file_server
+    local_certs
+}
+
+{$SERVER_NAME:localhost} {
+     root * /app/public
+     encode zstd gzip
+     php_server
+}
