@@ -1,4 +1,4 @@
-FROM dunglas/frankenphp:latest-php8.3
+FROM dunglas/frankenphp:latest
 
 #dossier dans lequel on travail
 WORKDIR /app
