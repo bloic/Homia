@@ -1,7 +1,3 @@
-Oui, dans ce cas il vaut mieux que le README reflète **la vraie structure du dépôt**, plutôt que de présenter une structure Symfony classique directement à la racine.
-
-Je modifierais la partie **Structure du projet** comme ceci :
-
 # 📁 Structure du projet
 
 Le repository est organisé afin de séparer clairement le projet Symfony de son environnement d'infrastructure.
